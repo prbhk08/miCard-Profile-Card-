@@ -1,4 +1,4 @@
-# sc_partner
+# card
 
 A new Flutter application.
 
