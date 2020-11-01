@@ -1,4 +1,4 @@
-# sc_partner
+# micard
 
 A new Flutter application.
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Overview of Project
+
+This project will provide a basic understanding of flutter widgets such as Cards, ListTiles Texts, procedure to add profile photo.
+
+
